@@ -93,13 +93,4 @@ or take it as a task and 🧑‍💻 resolve it 💪 --> create a PullRequest �
 
 Contributors are most welcome.
 
-### ScreenShots:
-
-* Home Page:
-
-![Alt text](https://photos.app.goo.gl/N6Fyn8Ju5sdhrqzt5)
-
-* Contact Us:
-
-![Alt text](https://photos.app.goo.gl/y1csaWbb7EY1gN628)
 
