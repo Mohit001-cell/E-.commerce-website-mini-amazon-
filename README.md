@@ -97,9 +97,9 @@ Contributors are most welcome.
 
 * Home Page:
 
-![Alt text](https://github.com/ikismail/ShoppingCart/blob/master/src/main/webapp/WEB-INF/resource/images/screenshots/Home.jpg "Home Page")
+![Alt text](https://photos.app.goo.gl/N6Fyn8Ju5sdhrqzt5)
 
 * Contact Us:
 
-![Alt text](https://github.com/ikismail/ShoppingCart/blob/master/src/main/webapp/WEB-INF/resource/images/screenshots/ContactUs.png)
+![Alt text](https://photos.app.goo.gl/y1csaWbb7EY1gN628)
 
